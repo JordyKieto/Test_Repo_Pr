@@ -19,6 +19,9 @@
 	<itunes:author>
 		OTH€LLO X
 	</itunes:author>
+	<itunes:owner>
+		<itunes:email> youremailaddress@gmail.com </itunes:email>
+	</itunes:owner>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
